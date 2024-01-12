@@ -35,6 +35,9 @@ footer{
         color: white;
         text-decoration: none;
     }
+    footer img{
+        width: 50px;
+    }
 /* Clases utilitarias */
 .text-pink{
     color: deeppink;
@@ -120,10 +123,6 @@ header img{
     width: 100%;
 }
 
-/* Pie - footer  */
-footer img{
-    width:30px
-}
 
 /* productos destacados */
 .productos-destacados{
